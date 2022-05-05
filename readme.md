@@ -1,3 +1,5 @@
+Disclaimer: I dont really know what im doing especially with PCB design
+
 A clock consiting of 24 X40 stepper motors. There are 6 pcb where 4 of the X40 steppers are on a pcb. On each PCB 2 X40 (so 4 steppers, since X40 are dual axle) are controlled by a VID6606 stepper controller, so 2 VID6606 per PCB. These 2 are controlled by 1 MapleMini STM32F103. These 6 modules are controlled by a single RasberryPi Pico running MicroPython, this Pico communicates with the modules over I2C and also a DS3231 RTC for timekeeping. Setting the time and display modes is done via a button panel of 4 buttons. The PiPico uses asynchronous programming.
 
 
