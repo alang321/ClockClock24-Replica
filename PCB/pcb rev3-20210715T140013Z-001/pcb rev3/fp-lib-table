@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name clockclock)(type KiCad)(uri ${KIPRJMOD}/clockclock.pretty)(options "")(descr ""))
+  (lib (name c40)(type KiCad)(uri ${KIPRJMOD}/c40.pretty)(options "")(descr ""))
+)

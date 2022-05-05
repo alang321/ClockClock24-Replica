@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC Part Number
+22 uF,"C1.1,C2.1",Capacitor_SMD:CP_Elec_4x5.3,C134793
+100 nF,"C1.2,C1.3,C2.2,C2.3",Capacitor_SMD:C_0603_1608Metric,C14663
+4.7 nF,"C1.4,C1.5,C1.6,C1.7,C1.8,C1.9,C2.4,C2.5,C2.6,C2.7,C2.8,C2.9,C1.10,C1.11,C2.10,C2.11",Capacitor_SMD:C_0603_1608Metric,C53987
+Conn_01x04_Female,J1,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,C474922
+1K2,"R1.1,R1.2,R1.3,R1.4,R1.5,R2.1,R2.2,R2.3,R2.4,R2.5",Resistor_SMD:R_0603_1608Metric,C22765

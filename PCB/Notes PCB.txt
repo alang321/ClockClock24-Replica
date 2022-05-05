@@ -1,0 +1,7 @@
+remove hall sensors
+add can bus, since i2 is not robust
+add pull down resistor for enable pin of vid 6606
+change microcontroller to smth cheaper?
+add bus daisy chain
+add better connector ( instead of scree terminal)
+use pin 14 instead of pin 22
