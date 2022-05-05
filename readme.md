@@ -6,6 +6,7 @@ Additional notes:
 - The bus should be switched to CAN something else more robust then I2C, occasionally the clock stops working because I2C has no error correction and is not made for how it is used here. But Im currently too lazy to do it.
 - there was a plan to automatically zero the steppers with a small magnet and hall sensor but this was not implemented, but the sensor mountings are present on the PCB
 - I lubricated the X40 steppers with SuperLube which did definitely reduce noise.
+- The main body is made of Korian which i had made by a professional
 
 
 Video of clock in action: https://photos.google.com/share/AF1QipM3veQpQ0XkVU6mXYjfI77cDL8gVcDZlROT0_qATZYPRnyIRZsuLHRsqtRsNTrixQ?key=c0U2SFBVdGpubVNTWW43WENBeFczdWVBSk5FbmZB
