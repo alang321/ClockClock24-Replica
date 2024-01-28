@@ -1,7 +1,11 @@
-remove hall sensors
-add can bus, since i2 is not robust
-add pull down resistor for enable pin of vid 6606
-change microcontroller to smth cheaper?
-add bus daisy chain
-add better connector ( instead of scree terminal)
-use pin 14 instead of pin 22
+Things to improve:
+
+Remove hall sensor functionality
+Add can bus or smth, since i2c is not robust
+Add pull down resistor for enable pin of vid 6606, connect to MCU pin
+Change microcontroller to smth cheaper/newer (RP2040?)?
+Add bus daisy chain connectors
+Add better connector (instead of screw terminal)
+Use pin 14 instead of pin 22 (if same MapleMini is used, gave some weird issues)
+
+Maybe switch to TMC2209 or smth for more silent driving (Some preliminary tests showed they do work with these steppers and are a bit more quiet)

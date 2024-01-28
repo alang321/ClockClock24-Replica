@@ -1,6 +1,6 @@
 [submodule "ClockClock-master-pico"]
-	path = ClockClock-master-pico
+	path = Code/ClockClock-master-pico
 	url = https://github.com/alang321/ClockClock-master-pico
 [submodule "clockclock-module"]
-	path = clockclock-module
+	path = Code/clockclock-module
 	url = https://github.com/alang321/clockclock-module
