@@ -18,6 +18,7 @@ A clock consiting of 24 X40 stepper motors. There are 6 pcb where 4 of the X40 s
 - There was a plan to automatically zero the steppers with a small magnet and hall sensor but this was not implemented, but the sensor mountings are present on the PCB
 - I lubricated the X40 steppers with SuperLube which did definitely reduce noise but this went back to normal levels after a few months.
 - The main body is made of Korian which I had made by a professional using the drawing in the 3d parts folder
+- Pointers where printed on a consumer FDM printer (Ender3V2) and where sanded and are friction fit.
 
 
 
